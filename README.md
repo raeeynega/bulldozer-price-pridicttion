@@ -1,7 +1,3 @@
-
-
----
-
 **Bulldozer Price Prediction (Machine Learning Project)** 🚜
 
 This project focuses on predicting bulldozer sale prices using machine learning techniques. It leverages historical auction data to build and evaluate models that can estimate equipment value accurately.
@@ -22,6 +18,6 @@ Before running the project, make sure to properly set up the development environ
 🚀 **Goal**
 To build a reliable model that helps estimate bulldozer prices based on historical and operational data.
 
----
+
 
 https://www.kaggle.com/c/bluebook-for-bulldozers-dataset here,instructions too
