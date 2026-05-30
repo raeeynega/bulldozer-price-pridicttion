@@ -3,7 +3,7 @@
 This project focuses on predicting bulldozer sale prices using machine learning techniques. It leverages historical auction data to build and evaluate models that can estimate equipment value accurately.
 
 🔧 **Important Setup**
-Before running the project, make sure to properly set up the development environment:
+bBefore running the project, make sure to properly set up the development environment:
 
 * Install all required dependencies
 * Configure your Python environment (preferably using `venv` or `conda`)
